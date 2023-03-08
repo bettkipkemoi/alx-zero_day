@@ -1,1 +1,4 @@
-My first readme
+Some sample code:
+```
+git branch master
+```
